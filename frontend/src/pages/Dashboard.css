@@ -1,0 +1,7 @@
+.item-list li {
+    display: none; 
+  }
+  
+  .item-list li:nth-last-child(-n+5) {
+    display: list-item; 
+  }

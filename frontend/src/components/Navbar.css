@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items:baseline;
+    justify-content: space-between;
+    background-color: rgb(176, 235, 180);
+}
+.left{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+.right{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    background-color: rgb(172, 225, 175);
+}
+a{
+    margin-right: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: xx-large;
+
+}
